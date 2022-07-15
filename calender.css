@@ -1,0 +1,36 @@
+{
+	text-align:right;
+	width:60px;
+}
+
+.container
+{
+	background-color:#FFF;
+	border:5px solid #000;
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	margin:20px auto;
+	padding:0;
+	width:760px;
+}
+
+#next
+{
+	float:right;
+	margin-bottom:10px;
+	margin-right:10px;
+}
+
+#prev
+{
+	float:left;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+
+#today
+{
+	margin-bottom:10px;
+	margin-left:auto;
+	margin-right:auto;
+	width:100px;
+}
